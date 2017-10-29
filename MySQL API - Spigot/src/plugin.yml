@@ -1,0 +1,4 @@
+name: MySQL API
+author: pongy20
+version: 1.0
+main: de.pongy.mysqlapi.MySQLAPI
