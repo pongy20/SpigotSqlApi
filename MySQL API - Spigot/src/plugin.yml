@@ -1,4 +1,5 @@
-name: MySQL API
+name: MySQL_API
 author: pongy20
-version: 1.0
-main: de.pongy.mysqlapi.MySQLAPI
+version: 2.0
+main: de.pongy.mysqlapi.SqlApi
+description: API to connect to SQL Server
